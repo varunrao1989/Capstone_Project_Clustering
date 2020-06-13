@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Capstone_Project_Clustering
 This project was part of coursera's "IBM Data Science Professional Certification".
 The repo includes:
 - Juyter notebok 
